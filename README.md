@@ -1,7 +1,7 @@
 # C++을 활용한 종합 미니 게임
 
 ### Cpp_Dungeon_Memory에는 본인이 구현한 스테이지형 던전맵과 카드 짝 맞추기 게임이 포함됨
-- https://github.com/K-mjin/Cpp_Multi_Mini_Game_Project (팀원들과 통합한 종합 미니 게임)
+- 팀원들과 통합한 종합 미니 게임 (https://github.com/K-mjin/Cpp_Multi_Mini_Game_Project)
 - 시연 영상 링크 (https://youtu.be/EZ0RBf4v_6M?si=joLbSCWfgXZ4W4lv)
 
 ## 프로젝트 소개
