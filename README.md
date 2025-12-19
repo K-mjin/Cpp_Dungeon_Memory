@@ -15,5 +15,5 @@
 
 ## 실행화면
 - 이미지를 클릭하면 시연영상이 재생됩니다.
-![메인화면](images/미니게임.png)(https://youtu.be/EZ0RBf4v_6M?si=joLbSCWfgXZ4W4lv)
+[![메인화면](images/미니게임.png)](https://youtu.be/EZ0RBf4v_6M?si=joLbSCWfgXZ4W4lv)
 
